@@ -1,12 +1,11 @@
 # Project 1 Generative Text
 
-Your Name, yourcontact@unl.edu
+Kayla LaPoure, klapoure2@huskers.unl.edu
 
 (Your teammate's contact info, if appropriate)
 
 ## Abstract
-
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+Do you ever wake up in the morning not knowing what to wear? I personally do. With the latest trends coming and going faster that we can buy them, wouldn’t it be nice for something to show you what exactly is timeless? Perhaps an RNN can. I plan to feed the RNN different fashion blogs and transcribed advice; let it sift through what is important and what isn’t. With the output of fashion that transcends time and ai, I can pull together outfits and become the most fashionable human in existence. Considering that I predominantly only t-shirts, I would like to draw or photoshop together a collage of the fashion advice the RNN shares with us. Overall, I think this is a playful way to explore RNNs and have a vibrant experience to share with the world.
 
 ## Model/Data
 
