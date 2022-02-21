@@ -24,8 +24,11 @@ I curated the top ten pieces of fashion advice that I thought were the most inte
 The fashion advice I took was trained in a variety of ways. I experimented a lot with the step to learning rate ratio. The most cohesive output came from a lower step, but a higher learning rate, I used around 500 steps and 1e-3 learning rate. While this was more understandable, some of the more playful advice came from training where this ratio was swapped. I trained it at 1000 steps and 1e-2 learning rate. 
 
 Questions that help prompt the GPT with answers:
+
 “For the perfect outfit try”
+
 “Try”
+
 “To be fashionable you must”
 
 ## Curated GPT2 Fashion Advice
