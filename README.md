@@ -62,22 +62,40 @@ I used the cloned git file shared with me and the Jupyter lab. I then used my Pr
 
 ## Reference
 Blogs I used to train my GPT2 model on:
+
 Fashion Tips: The Top 10 Tips From Stylish Women (stitchfix.com)
+
 Fashion news and features | British Vogue
+
 Style | Fashionista - Fashionista
+
 All the Best Fashion Campaigns of Spring/Summer 2022 (elle.com)
+
 The 50 Best Fashion Blogs You Should Read in 2022 - Detailed.com
+
 Hello Fashion (hellofashionblog.com)
+
 Top 100 Fashion Blogs You Must Follow in 2022 (feedspot.com)
+
 3 Ways to Dress Fashionably - wikiHow
+
 14 Easy Ways to Look More Fashionable 2020 - How to Look Stylish (cosmopolitan.com)
+
 8 Fashion Tips to Ensure You Always Look Stylish - 2022 - MasterClass
+
 35 Fashion Tips For Women On How To Look Fashionable (fashionlady.in)
+
 How to Look Stylish Every Day | The Well Dressed Life
+
 4 Ways to Be Trendy - wikiHow
+
 6 Ways To Dress Trendy in Chilling Winters (news4masses.com)
+
 Fashion 101: How to Look Trendy & Modest When Layering | INNERMOD
+
 How To Look Good: 20 Ideas That Make You More Attractive (shinesheets.com)
+
 5 TIPS TO LOOKING STYLISH EVERY DAY. – TheDamiAlex (wordpress.com)
+
 Dress Like An Italian Woman and Look Elegant Daily with our Popular Italian Style Guide | La Belle Society
 
