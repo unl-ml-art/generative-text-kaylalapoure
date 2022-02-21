@@ -28,12 +28,36 @@ Questions that help prompt the GPT with answers:
 “Try”
 “To be fashionable you must”
 
+## Curated GPT2 Fashion Advice
+
+1.To avoid embarrassment and embarrassment, the outfit should be simple and casual. The idea of dressing with ease and with care is essential. Opt for the best fit and the most comfortable shoes for the person.
+
+2.To avoid possible cuts and stains, the outfit should have a soft sheen and a sheen that is soft and inviting. The outfit should not be made of plastic or prone to knots. The outfit should not be made of plastic, but should be light and loose-fitting. The style of dress that you want to wear should be chosen carefully.
+
+3.A simple rule of thumb for hat making: If you only have 5 staples in your wardrobe, don't need more. This hat will do just that.
+
+4.The power of GIF tattoos lies in their ability to convey emotion without the effort. This white GIF tattoo comes in two colors, black and white. This simple and versatile white T-shirt will do the trick.
+
+5.If you love to look chic in white flour sacks, this white T-shirt will do the trick.
+
+6.Stylisthing with style, this nail art bag from Jeans Originals is a must-have accessory for any professional looking to look professional. 
+
+7.A simple rule of thumb for hat making: If you only have 5 staples in your closet, pick this white T-shirt as your face mask. This simple rule of thumb will do the trick. 
+
+8.For the perfect outfit try this simple trick: keep the hem of the shirt tucked in the back and the hem of the jacket or bottoms up. This will make the rest of the outfit look effortless and flattering 
+
+9.For an even trickier way to wear an item, fold the jacket in half and place it over your head and put the strap back on.
+
+10.Don’t Hold Back on Socks
+
+
+You can find all the outputs under the gpt2 outputs file.
+
 
 ## Technical Notes
 
 
-I used the cloned git file shared with me and the Jupyter lab. Some elements I changed to get the results were the temperature (I generally used .7), the step, which was changed between 200-1000, and the learning rate, which was changed from 1e-2 to 1e-3.
-
+I used the cloned git file shared with me and the Jupyter lab. I then used my Project1V1 txt file to train the GPT2. Some elements I changed to get the results were the temperature (I generally used .7), the step, which was changed between 200-1000, and the learning rate, which was changed from 1e-2 to 1e-3.
 
 
 ## Reference
