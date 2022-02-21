@@ -58,7 +58,10 @@ Questions that help prompt the GPT with answers:
 
 You can find all the outputs under the "gpt2 outputs" file.
 
-To look at the drawings that co
+To look at the drawings that correspond with the fashion advice follow this link:
+
+https://drive.google.com/file/d/16zVbHK92SAcgF1w2_1WEjGMIe-jFbul7/view?usp=sharing
+
 
 ## Technical Notes
 
