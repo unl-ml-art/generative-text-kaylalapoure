@@ -54,13 +54,13 @@ Questions that help prompt the GPT with answers:
 10.Don’t Hold Back on Socks
 
 
-You can find all the outputs under the gpt2 outputs file.
+You can find all the outputs under the "gpt2 outputs" file.
 
 
 ## Technical Notes
 
 
-I used the cloned git file shared with me and the Jupyter lab. I then used my Project1V1 txt file to train the GPT2. Some elements I changed to get the results were the temperature (I generally used .7), the step, which was changed between 200-1000, and the learning rate, which was changed from 1e-2 to 1e-3.
+I used the cloned git file shared with me and the Jupyter lab. I then used my "Project1V1" txt file to train the GPT2. Some elements I changed to get the results were the temperature (I generally used .7), the step, which was changed between 200-1000, and the learning rate, which was changed from 1e-2 to 1e-3.
 
 
 ## Reference
